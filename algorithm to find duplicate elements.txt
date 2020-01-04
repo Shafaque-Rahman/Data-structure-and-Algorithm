@@ -1,0 +1,9 @@
+Q.Algorithm to find duplicate elements in O(n) time and O(1)
+  extra space for a given array of size n.
+
+1. Input array size
+2. Input array elements
+3. Sort the array to reduce the time complexity 
+   while condition checking in loop
+4. Check the repitition of element in array
+5. Print the repeated element once only 
